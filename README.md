@@ -3,7 +3,7 @@ This is a data science project through Springboard
 
 #### JSON exercise:
 
-Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
+Using data in file 'data/world_bank_projects.json', answer these questions:
 
 1. Find the 10 countries with most projects
 
